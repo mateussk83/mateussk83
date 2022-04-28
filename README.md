@@ -1,7 +1,7 @@
 ## Hi! I'm Mateus Garcia Santos.
-- 🌱 I'm a Science Computer to be, currently in the 5th semester
-- 💙 I've been interested in: C#, Javascript, Python, Php
-- 🎯 Nowadays I'm studying: C#, Angular, Php, Selenium(Python)
+- 🌱 I'm a Science Computer to be, currently in the 5th semester.
+- 💙 I've been interested in: NodeJs, ReactJs, Django(Python), Php.
+- 🎯 Nowadays I'm studying: Python, Angular, TypeScript, Javascript.
 - 🧱 Current Project: [Develop a chat using tcp/ip in C#](https://github.com/ThiagodePaulaSouza/APS_5-semestre)
 
 <div align="center">
