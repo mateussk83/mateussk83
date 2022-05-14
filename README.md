@@ -2,7 +2,7 @@
 - 🌱 I'm a Science Computer to be, currently in the 5th semester.
 - 💙 I've been interested in: NodeJs, ReactJs, Django(Python), Php.
 - 🎯 Nowadays I'm studying: Python, Angular, TypeScript, Javascript, C#.
-- 🧱 Current Project: [Develop a chat using tcp/ip in C#](https://github.com/ThiagodePaulaSouza/APS_5-semestre)[psicologic assistance website in HTML](https://github.com/mateussk83/nlw-project)
+- 🧱 Current Project: [Develop a chat using tcp/ip in C# ](https://github.com/ThiagodePaulaSouza/APS_5-semestre)[psicologic assistance website in HTML](https://github.com/mateussk83/nlw-project)
 
 <div align="center">
   <a href="https://github.com/mateussk83 ">
