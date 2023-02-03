@@ -1,8 +1,11 @@
 ## Hi! I'm Mateus Garcia Santos.
-- 🌱 I'm a Science Computer to be, currently in the 7th semeste.
-- 💙 I've been interested in:  Me tornar full Stack!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=480&lines=Howdy!+I'm+Mateus+Garcia+Santos+%F0%9F%91%8B;I'm+a+Intern+Back-End+Developer+%F0%9F%92%80%F0%9F%A6%86;)](https://git.io/typing-svg)
+
+- 🌱 I'm a Science Computer to be, currently in the 7th semestre.
+- 💙 I've been interested in: Become a Back-end Developer!
 -  🎯 Nowadays I'm studying: NodeJs, ReactJs, TypeScript, Javascript, MySQL e Jest.
-- 🧱 Current Project: [projects in ReactJs](https://github.com/mateussk83/Projects-Ignite-React) and [platform for the p sychologist in ReactJs](https://github.com/mateussk83/WebSite-Saigrene) e [rentx api de carro] (https://github.com/mateussk83/rentx)               
+- 🧱 Current Project: [projects in ReactJs](https://github.com/mateussk83/Projects-Ignite-React),  [platform for the psychologist in ReactJs](https://github.com/mateussk83/WebSite-Saigrene) and [rentx the car rental API in nodeJs](https://github.com/mateussk83/rentx)               
 
 
 <div align="center">
