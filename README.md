@@ -1,8 +1,8 @@
 ## Hi! I'm Mateus Garcia Santos.
 - 🌱 I'm a Science Computer to be, currently in the 7th semeste.
 - 💙 I've been interested in:  Me tornar full Stack!
-- 🎯 Nowadays I'm studying: NodeJs, ReactJs, TypeScript, Javascript, MySQL e Jest.
-- 🧱 Current Project: [projects in ReactJs](https://github.com/mateussk83/Projects-Ignite-React) and [platform for the psychologist in ReactJs](https://github.com/mateussk83/WebSite-Saigrene)
+-  🎯 Nowadays I'm studying: NodeJs, ReactJs, TypeScript, Javascript, MySQL e Jest.
+- 🧱 Current Project: [projects in ReactJs](https://github.com/mateussk83/Projects-Ignite-React) and [platform for the p sychologist in ReactJs](https://github.com/mateussk83/WebSite-Saigrene) e [rentx api de carro] (https://github.com/mateussk83/rentx)               
 
 
 <div align="center">
