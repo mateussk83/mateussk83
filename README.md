@@ -5,7 +5,7 @@
 - 🌱 I'm a Science Computer to be, currently in the 7th semestre.
 - 💙 I've been interested in: Become a Back-end Developer!
 -  🎯 Nowadays I'm studying: NodeJs, ReactJs, TypeScript, Javascript, MySQL,NextJs e Jest.
-- 🧱 Current Project: [rentx the car rental API in nodeJs](https://github.com/mateussk83/rentx) and [Ignite Shop the E-Commerce in NextJs](https://github.com/mateussk83/rentx)
+- 🧱 Current Project: [rentx the car rental API in nodeJs](https://github.com/mateussk83/rentx) and [Ignite Shop the E-Commerce in NextJs](https://github.com/mateussk83/Ignite-Shop)
 
 <div align="center">
   <a href="https://github.com/mateussk83 ">
