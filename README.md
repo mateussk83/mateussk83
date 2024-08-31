@@ -4,5 +4,4 @@
 
 - 🌱 I'm a Science Computer to be.
 - 💙 I've been interested in: Become a Back-end Developer!
--  🎯 Nowadays I'm studying: Java, NodeJs, AWS e Design Pattern.
-- 🧱 Currently: Studying design patterns
+-  🎯 Nowadays I'm studying: Java, Quarkus, AWS e Design Pattern.
